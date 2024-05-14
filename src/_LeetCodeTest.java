@@ -6,12 +6,12 @@ import java.util.Scanner;
 public class _LeetCodeTest {
     public static void main(String[] args) {
         User me = new User();
-        me.setVorname("Ahmet Muaz");
-        me.setNachname("Akan");
+        me.setVorname("Otto");
+        me.setNachname("Khan");
 
         User you = new User();
-        you.setVorname("Mehlika");
-        you.setNachname("Akan");
+        you.setVorname("Meriam");
+        you.setNachname("Weissberg");
 
         List<User> users = new ArrayList<>();
 
