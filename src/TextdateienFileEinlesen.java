@@ -9,7 +9,7 @@ import java.util.Scanner;
 
 public class TextdateienFileEinlesen {
     public static void main(String[] args) throws FileNotFoundException {
-        File file = new File("//Users/muazakan/eclipse-workspace/Aufgabe19_Bibliothek_14923_*****/readMe");
+        File file = new File("//Users/****/eclipse-workspace/Aufgabe19_Bibliothek_14923_*****/readMe");
         Scanner scan;
 
 
