@@ -6,11 +6,11 @@ import java.util.Arrays;
 public class StringAnalyse {
     public static void main(String[] args){
         String str="Eine kleine Beispiel";
-     checksentez(str);
+     checkSentez(str);
 
     }
 
-    public static void checksentez(String str){
+    public static void checkSentez(String str){
         char[] arrChar = str.toCharArray();
         String[] strWord = str.split(" ");
         int anzahlLZ = 0;
