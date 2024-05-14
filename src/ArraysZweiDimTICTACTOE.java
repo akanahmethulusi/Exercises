@@ -16,7 +16,7 @@ public class ArraysZweiDimTICTACTOE {
 
         String[][] spielFeld = new String[3][3];
         System.out.println("Lass uns TIC-TAC-TOE spielen"
-                +           "\n" + "Du kanns in die Felder A=(oben links) bis C0(unten rechts setzen)"
+                +           "\n" + "Du kannst in die Felder A=(oben links) bis C0(unten rechts setzen)"
                 +           "\n" + "Es beginnt X dann ist 0 an der Reihe"
                 +           "\n" + "Wer 3 Symbol in einer Reihe Horizontal, Diagonal oder Vertical hat, hat gewonnen!"
                 +           "\n" + "X beginnt! Bitte gib dein Feld mit A0, A1,A2,B0 usw. an!");
