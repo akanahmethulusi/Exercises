@@ -25,7 +25,6 @@ class User{
     String nachname;
 
     public User(){
-
     }
     public User(String vorname, String nachname) {
         this.vorname = vorname;
@@ -36,7 +35,6 @@ class User{
         for(User user: users){
             System.out.println(u);
             if(user.equals(u)){
-
                 return user;
             }
         }

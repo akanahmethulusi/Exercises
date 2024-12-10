@@ -7,9 +7,7 @@ public class Exercise {
 
     public static void main(String[] args) {
         Exercise exercise = new Exercise();
-        // new object created
-        // Comment
-        //new comment
+
         exercise.a = exercise.transform(5);// die zahl wird geändert.
         exercise.a = exercise.transform(exercise.a);
         System.out.println(" Transforming a: "+exercise.a);
