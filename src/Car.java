@@ -21,7 +21,7 @@ public class Car {
     public void drive(){
         System.out.println("Das Auto faehrt......");
     }
-    //Mthoden überladet
+    //Methoden überladet
     public void drive(int speed){
         System.out.println("Auto faehrt "+speed+"km/h");
     }
